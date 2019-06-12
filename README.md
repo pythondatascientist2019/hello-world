@@ -5,3 +5,5 @@ My name is Don and I am pursuing a path in Data Science by way of the Dataquest 
 - Bullet List
 
 [Good Times](http://www.nba.com)
+
+**Bold** and *Italics*
